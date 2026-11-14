@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.9
+
+- Renamed Context Pocket to Pocket Context and changed the Marketplace identifier to `pocket-context`.
+
 ## 0.0.8
 
 - Updated the Marketplace category and search tags.

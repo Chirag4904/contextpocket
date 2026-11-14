@@ -1,10 +1,10 @@
 {
-  "name": "context-pocket",
-  "displayName": "Context Pocket",
+  "name": "pocket-context",
+  "displayName": "Pocket Context",
   "description": "Private scratchpads for your Git branches and project folders.",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "chirag4904",
-  "repository": { "type": "git", "url": "https://github.com/Chirag4904/contextpocket.git" },
+  "repository": { "type": "git", "url": "https://github.com/Chirag4904/pocket-context.git" },
   "engines": { "vscode": "^1.85.0" },
   "main": "./extension.js",
   "icon": "media/marketplace-icon.png",
@@ -17,7 +17,7 @@
   "contributes": {
     "viewsContainers": {
       "activitybar": [
-        { "id": "contextpocket", "title": "Context Pocket", "icon": "media/icon.svg" }
+        { "id": "contextpocket", "title": "Pocket Context", "icon": "media/icon.svg" }
       ]
     },
     "views": {
@@ -26,8 +26,8 @@
       ]
     },
     "commands": [
-      { "command": "contextpocket.open", "category": "Context Pocket", "title": "Open Scratchpad" },
-      { "command": "contextpocket.clear", "category": "Context Pocket", "title": "Clear Current Scratchpad" }
+      { "command": "contextpocket.open", "category": "Pocket Context", "title": "Open Scratchpad" },
+      { "command": "contextpocket.clear", "category": "Pocket Context", "title": "Clear Current Scratchpad" }
     ],
     "menus": {
       "view/title": [

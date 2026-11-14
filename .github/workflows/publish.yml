@@ -1,4 +1,4 @@
-name: Publish Context Pocket
+name: Publish Pocket Context
 
 on:
   workflow_dispatch:

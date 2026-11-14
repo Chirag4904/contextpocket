@@ -134,7 +134,7 @@ async function activate(context) {
           saveStates.set(key, "error");
           if (view) view.webview.postMessage({ type: "saved", key, text, state: "error" });
         }
-        vscode.window.showErrorMessage("Context Pocket couldn't save your note. Edit it to retry.");
+        vscode.window.showErrorMessage("Pocket Context couldn't save your note. Edit it to retry.");
         return false;
       }
     });
@@ -195,7 +195,7 @@ async function activate(context) {
   );
 
   const status = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Left, 0);
-  status.name = "Context Pocket";
+  status.name = "Pocket Context";
   status.command = "contextpocket.open";
   context.subscriptions.push(status);
 
