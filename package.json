@@ -3,7 +3,7 @@
   "displayName": "Context Pocket",
   "description": "Private scratchpads for your Git branches and project folders.",
   "version": "0.0.8",
-  "publisher": "Chirag4904",
+  "publisher": "chirag4904",
   "repository": { "type": "git", "url": "https://github.com/Chirag4904/contextpocket.git" },
   "engines": { "vscode": "^1.85.0" },
   "main": "./extension.js",
