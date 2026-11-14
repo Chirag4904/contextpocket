@@ -4,6 +4,10 @@
 
 Before you switch tasks, jot down what you tried, what you learned, and where to pick up. Pocket Context autosaves as you type and brings the note back when you return to that branch or folder.
 
+## Why Pocket Context
+
+AI agents can carry context across a task, but people still lose their own when work jumps between tickets, branches, and projects. Pocket Context gives you a private place to leave the working details behind—what you tried, what you learned, and what comes next—so your context is ready when you return.
+
 ## Get started
 
 1. Install [Pocket Context from the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=chirag4904.pocket-context).

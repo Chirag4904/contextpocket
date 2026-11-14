@@ -2,7 +2,7 @@
   "name": "pocket-context",
   "displayName": "Pocket Context",
   "description": "Private scratchpads for your Git branches and project folders.",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "publisher": "chirag4904",
   "repository": { "type": "git", "url": "https://github.com/Chirag4904/pocket-context.git" },
   "engines": { "vscode": "^1.85.0" },
