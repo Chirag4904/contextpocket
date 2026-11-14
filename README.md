@@ -8,7 +8,7 @@ Before you switch tasks, jot down what you tried, what you learned, and where to
 
 ## Get started
 
-1. Install [Context Pocket from the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Chirag4904.contextpocket).
+1. Install [Context Pocket from the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=chirag4904.context-pocket).
 2. Open a folder and select **Context Pocket** in the Activity Bar.
 3. Write a note, switch branches, and switch back to see it restored.
 
