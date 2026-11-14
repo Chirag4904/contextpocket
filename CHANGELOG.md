@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.7
+
+- Linked the source repository and added a screenshot to the Marketplace README.
+
 ## 0.0.6
 
 - Shortened the scratchpad menu label to **Clear Current Scratchpad**.
