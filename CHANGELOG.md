@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.8
+
+- Updated the Marketplace category and search tags.
+- Kept local development instructions in `CONTRIBUTING.md` on GitHub.
+
 ## 0.0.7
 
 - Linked the source repository and added a screenshot to the Marketplace README.
